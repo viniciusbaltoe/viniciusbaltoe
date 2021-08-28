@@ -8,5 +8,7 @@
 
 
 - 🔭 I’m currently working on a integration of ROS and Intelligent Spaces.
+
 - 🌱 I’m currently learning about rabbitMQ's broker and python's ROS librarys.
+
 - 👨‍💻 I’m looking to collaborate on Intelligent Space's projets on [LabVisio.](https://github.com/labviros)
