@@ -1,19 +1,21 @@
-<h1> Hey! I'm Vinícius Breda Altoé 👋 </h1>
+<h1> Hey! I'm Vinícius Breda Altoé </h1>
 
-- 🔭 I’m currently working on a integration of ROS and Intelligent Spaces.
-- 🌱 I’m currently learning about rabbitMQ's broker and python's ROS librarys.
-- 👨‍💻 I’m looking to collaborate on Intelligent Space's projets on [LabVisio](https://github.com/labviros).
+## Currently actions:
+- 💼 I’m currently working on a integration of ROS and Intelligent Spaces.
+- 🔬 I’m currently learning about rabbitMQ's broker and python's ROS librarys.
+- 😀 I’m looking to collaborate on Intelligent Space's projets on [LabVisio](https://github.com/labviros).
 
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/viniciusbaltoe">
-  <img  src="https://github-readme-stats.vercel.app/api?username=viniciusbaltoe&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  </a>
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=viniciusbaltoe&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  </a>  
 </div>
 
-<p align="center">
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
+## Toolbox:
+<p>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a>
@@ -28,5 +30,8 @@
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a>
 </p>
 
-##
-
+## How to contact me:
+<div>
+  <a href = "mailto:viniciusbaltoe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/viniciusbaltoe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
