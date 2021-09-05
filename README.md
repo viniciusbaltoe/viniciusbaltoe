@@ -9,8 +9,9 @@
 
 <div>
   <a href="https://github.com/viniciusbaltoe">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=viniciusbaltoe&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  </a>  
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciusbaltoe&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbaltoe&layout=compact&langs_count=8&theme=github_dark"/>
+  </a>
 </div>
 
 ## Toolbox:
