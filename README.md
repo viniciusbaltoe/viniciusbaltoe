@@ -1,8 +1,8 @@
 <h1> Hey! I'm Vinícius Breda Altoé </h1>
 
 ## Currently actions:
-- 💼 I’m currently working on a integration between ROS and Intelligent Spaces.
-- 🔬 I’m currently learning about rabbitMQ's broker and python's ROS libraries.
+- 💼 I’m currently working on a integration between ROS and Intelligent Spaces. [See more.](https://github.com/viniciusbaltoe/is-ros-translator)
+- 🔬 I'm currently learning about methods and best practices in creating documentation.
 - 😀 I’m looking to collaborate on Intelligent Space's projects on [LabVisio](https://github.com/labviros) from UFES and LabSea from IFES.
 
 ##
