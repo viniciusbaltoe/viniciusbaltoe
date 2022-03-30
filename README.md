@@ -2,7 +2,6 @@
 
 ## Currently actions:
 - 💼 I’m currently working on a integration between ROS and Intelligent Spaces. [See more.](https://github.com/viniciusbaltoe/is-ros-translator)
-- 🔬 I'm currently learning about methods and best practices in creating documentation.
 - 😀 I’m looking to collaborate on Intelligent Space's projects on [LabVisio](https://github.com/labviros) from UFES and LabSea from IFES.
 
 ##
@@ -18,6 +17,7 @@
 <p>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a>
+<a href="https://www.ros.org/" target="_blank"> <img src="https://github.com/ros-infrastructure/artwork/blob/master/ros_logo.svg" alt="ROS" width="30" height="30"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> </a>
