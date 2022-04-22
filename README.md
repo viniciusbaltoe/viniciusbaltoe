@@ -2,7 +2,7 @@
 
 ## Currently actions:
 - 💼 I’m currently working on a integration between ROS and Intelligent Spaces. [See more.](https://github.com/viniciusbaltoe/is-ros-translator)
-- 😀 I’m looking to collaborate on Intelligent Space's projects on [LabVisio](https://github.com/labviros) from UFES and LabSea from IFES.
+- 😀 I’m looking to collaborate on Intelligent Space's projects on [LabVisio](https://github.com/labviros) from UFES.
 
 ##
 
